@@ -5,5 +5,6 @@ Lenguajes
 Editores  
 [![My Skills](https://skillicons.dev/icons?i=sublime,vscode,visualstudio)](https://skillicons.dev)
 
+
 sistemas operativos
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
